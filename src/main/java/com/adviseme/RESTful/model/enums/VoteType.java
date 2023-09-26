@@ -1,6 +1,6 @@
 package com.adviseme.RESTful.model.enums;
 
-public enum AdviceVote {
+public enum VoteType {
     UP,
     DOWN
 }
